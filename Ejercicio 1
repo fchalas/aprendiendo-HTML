@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+    <title> Ejercicio de Introduccion a HTML en OpenBootcamp </title>
+    </head> 
+    <body> 
+        <p>Este es mi primer comentario de dos lineas</p>
+        <span>Aprendiendo a documentar mi codigo con OpenBootcamp</span>
+        <div> 
+            <h4> Mis 3 videos fav de Yotube</h4>
+            <ul> 
+                <div>
+<il> <a href="https://www.youtube.com/watch?v=gKBuh5lL5VI"> Highlights Juego 9| Serie Final 2016-17| Licey vs Aguilas</a> 
+</il></div>
+<il> <a href="https://www.youtube.com/watch?v=Cr8K88UcO0s"> Bad Bunny - Titi Me Pregunto (Official Video)</a> 
+</il> <div> 
+<il> <a href="https://www.youtube.com/watch?v=MaO5qzPaMQc"> Full Final Inning of World Series Game 6 </a> 
+</il></div>
+        </ul>
+        </div>
+    </body>
+</html>
